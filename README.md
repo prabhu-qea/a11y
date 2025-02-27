@@ -59,3 +59,6 @@ If not set, the default `PROJECT_KEY` is `A11Y`.
 - Modify `withTags` in `scanPage()` to test different WCAG levels.
 - Adjust `test.setTimeout()` if testing large pages.
 - Inline comments are included in the code for better readability and understanding.
+
+## LICENSE
+  Distributed under the GNU GENERAL PUBLIC LICENSE.
